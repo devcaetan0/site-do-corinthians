@@ -28,7 +28,7 @@ body{
     display: flex;
     text-align: center;
     justify-content: space-around;
-    padding: 5px;
+    padding: 10px;
 }
 
 .noticia{
@@ -36,6 +36,9 @@ body{
     color: red;
     border: 10px solid rgb(0, 0, 0);
     border-radius: 15px;
+    padding: 5px;
+    margin: 10px;
+    overflow: hidden;
 }
 
 .img_noticia{
@@ -43,4 +46,5 @@ body{
     height: 300px;
     border: 10px solid red;
     border-radius: 5px;
+    padding: 5px;
 }
