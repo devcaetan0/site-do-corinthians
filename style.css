@@ -95,3 +95,13 @@ body{
     border: 5px solid red;
     border-radius: 10px;
 }
+
+#gif{
+    position: fixed; 
+    bottom: 20px; 
+    right: 20px; 
+    z-index: 9999;   
+    width: 150px;   
+    height: 125px;    
+    border-radius: 50%;
+}
