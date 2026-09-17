@@ -1,6 +1,6 @@
-# Corinthians - Portal Estático
+# 🖤 Corinthians - Portal Estático 🤍
 
-Este é um projeto de site estático desenvolvido para reunir notícias, novidades e a escalação do Sport Club Corinthians Paulista. O projeto conta com uma estrutura bem definida em HTML5 e estilização personalizada em CSS3 utilizando a identidade visual do clube.
+Este é um projeto de site estático desenvolvido para reunir notícias, novidades fictícias e a escalação do Sport Club Corinthians Paulista. O projeto conta com uma estrutura bem definida em HTML5 e estilização personalizada em CSS3 utilizando a identidade visual do clube.
 
 ---
 
